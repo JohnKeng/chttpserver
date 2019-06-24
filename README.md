@@ -5,7 +5,7 @@
 ./server
 ```
 
-有 GET /john 跟 POST 兩個router
+有 GET /john 跟 POST 兩個route
 GET /john 會返回html
 
 ![](https://i.imgur.com/FLEKvsD.png)
