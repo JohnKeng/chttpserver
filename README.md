@@ -1,5 +1,4 @@
-# chttpserver
-簡單的 c http server 
+簡單的16k c http server  
 
 ./server
 
