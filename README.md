@@ -1,5 +1,10 @@
 簡單的16k c http server  
 
+更改權限
+```
+chmod +x server
+```
+
 啟動方式
 ```
 ./server
